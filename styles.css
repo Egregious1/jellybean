@@ -1,12 +1,20 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
+    margin: 0;
 }
+
+body {
+  background-image: url(https://images.unsplash.com/photo-1557682233-43e671455dfa?q=80&w=882&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* all colors in navbar need to be changed! */
 
 /* Style the navigation menu */
 .topnav {
     overflow: hidden;
-    background-color: white;
+    background-color: rgb(82, 33, 82);
     position: fixed;
     width: 100%;
     height: auto;
@@ -20,16 +28,18 @@
   
   /* Style navigation menu links */
   .topnav a {
-    color: white;
+    color: rgb(224, 149, 11);
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size: 15px;
     display: block;
   }
   
   /* Style the hamburger menu */
   .topnav a.icon {
-    background: orange;
+    background: rgb(224, 149, 11);
     display: block;
     position: absolute;
     right: 0;
@@ -38,14 +48,14 @@
   
   /* Add a colored background color on mouse-over */
   .topnav a:hover {
-    background-color: purple;
-    color: orange;
+    background-color: rgb(82, 33, 82);
+    color: rgb(224, 149, 11);
   }
   
   /* Style the active link (or home/logo) */
   .active {
-    background-color: orange;
-    color: white;
+    background-color: rgb(224, 149, 11);
+    color: rgb(82, 33, 82)
   }
 
 /* All borders are for measuring purposes only */
@@ -58,7 +68,7 @@
     border-style: solid;
     margin: auto;
     max-width: fit-content;
-    padding-top: 60px;
+    padding-top:80px;
 }
 
 /* for all blog entries */
