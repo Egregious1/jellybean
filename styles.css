@@ -66,6 +66,8 @@ body {
   margin: auto;
   max-width: fit-content;
   padding-top: 80px;
+  font-size: xx-large;
+  text-transform: uppercase;
 }
 
 /* for all blog entries */
@@ -73,6 +75,7 @@ body {
   text-align: center;
   display: block;
   margin: 2em;
+  padding-top: 80px;
 }
 
 /* Blog title styles */
