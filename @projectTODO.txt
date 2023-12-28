@@ -1,0 +1,14 @@
+@project
+
+forjellybean:
+
+    ☐ change layout to be in two responsive columns. Web site should have a more natural reading feel. find a way to clean up the code to make it more responsive and adaptable to viewport size. try not bloat out the code if you can help it.
+
+    ☐ purchase a domain name 'forjellybean.org'. try to find a hosting site that will give it for a dollar for the first year. Be ready to launch as soon as purchase even with out an actual product
+
+    ☐ change navbar colors and layout and or background. It feels like the colors clash too much and as of now has no real cohesiveness. lets make things a little more minimalistic and beautiful
+
+    ☐ create hero page 'under construction' something simple that can be altered to be a landing page for final product
+
+    ☐ write new blog entry for the day. Try to keep the greif to a minimum moving forward. We can create a new blog that is for that purpose but lets make this one a place of hope and learning. I want camille to be proud of what I make here.
+
