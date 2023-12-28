@@ -16,7 +16,6 @@ body {
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;
-  background-color: rgb(82, 33, 82);
   position: fixed;
   width: 100%;
   height: auto;
@@ -26,6 +25,7 @@ body {
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
   display: none;
+  align-items: right;
 }
 
 /* Style navigation menu links */
@@ -41,27 +41,12 @@ body {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: rgb(224, 149, 11);
   display: block;
   position: absolute;
   right: 0;
   top: 0;
 }
-
-/* Add a colored background color on mouse-over */
-.topnav a:hover {
-  background-color: rgb(224, 149, 11);
-  color: rgb(224, 149, 11);
-}
-
-/* Style the active link (or home/logo) */
-.active {
-  background-color: rgb(224, 149, 11);
-  color: rgb(82, 33, 82)
-}
-
-/* 
-
+ 
 /* Blog Title */
 .title-main {
   text-align: center;
