@@ -25,7 +25,6 @@ body {
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
   display: none;
-  align-items: right;
 }
 
 /* Style navigation menu links */
@@ -92,4 +91,18 @@ body {
 .blog-date {
   margin: auto;
   font-size: 16px;
+}
+
+/* landing page styles */
+
+.header {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 52px;
+}
+
+.tagline {
+    text-align: center;
+    margin: auto;
+    max-width: 60%;
 }
