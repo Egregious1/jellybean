@@ -1,13 +1,14 @@
 * {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Concert One', sans-serif;
   margin: 0;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 body {
   background-image: url(https://images.unsplash.com/photo-1557682233-43e671455dfa?q=80&w=882&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   background-size: cover;
   background-repeat: no-repeat;
+
 }
 
 /* all colors in navbar need to be changed! */
@@ -78,6 +79,7 @@ body {
   margin: 2em;
   padding-top: 80px;
   max-width: 90%;
+
 }
 
 /* Blog title styles */
@@ -86,6 +88,7 @@ body {
   max-width: fit-content;
   margin: auto;
   text-transform: uppercase;
+  font-size: 35px;
 }
 
 /* blog entries as indiv */
@@ -97,6 +100,7 @@ body {
   padding-bottom: 300px;
   font-weight: 500;
   font-size: 22px;
+  font-weight: 100;
 }
 
 /* blog dates */
