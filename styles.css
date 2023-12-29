@@ -58,12 +58,11 @@ body {
 
 /* for all blog entries */
 .blog-main {
-  text-align: center;
-  display: block;
   margin: 2em;
   padding-top: 80px;
-  max-width: 90%;
-
+  width: 90%;
+  border: 2px solid red;
+  display: flex;
 }
 
 /* Blog title styles */
@@ -79,7 +78,7 @@ body {
 .blog-entry {
   padding: 5px;
   height: auto;
-  width: 80%;
+  width: auto;
   margin: auto;
   padding-bottom: 300px;
   font-weight: 500;
@@ -95,12 +94,13 @@ body {
 
 /* landing page styles */
 
+/* title */
 .header {
     text-align: center;
     padding-top: 150px;
     font-size: 52px;
 }
-
+/* tagline */
 .tagline {
     text-align: center;
     margin: auto;
