@@ -45,7 +45,7 @@ body {
   right: 0;
   top: 0;
 }
- 
+
 /* Blog Title */
 .title-main {
   text-align: center;
@@ -96,13 +96,14 @@ body {
 
 /* title */
 .header {
-    text-align: center;
-    padding-top: 150px;
-    font-size: 52px;
+  text-align: center;
+  padding-top: 150px;
+  font-size: 52px;
 }
+
 /* tagline */
 .tagline {
-    text-align: center;
-    margin: auto;
-    max-width: 60%;
+  text-align: center;
+  margin: auto;
+  max-width: 60%;
 }
